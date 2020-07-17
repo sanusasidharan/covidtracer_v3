@@ -4,15 +4,16 @@
   "description": "covidtracker front end application",
   "main": "app.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node app.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sanusasidharan/covidtracer_v3.git"
   },
   "keywords": [
     "covid"
   ],
+  "engines": {
+		"node": "10.*"
+	}, 
   "author": "sanu",
   "license": "ISC",
   "bugs": {
