@@ -1,0 +1,22 @@
+{
+  "name": "covidtracker",
+  "version": "0.0.1",
+  "description": "covidtracker front end application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanusasidharan/covidtracer_v3.git"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "sanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanusasidharan/covidtracer_v3/issues"
+  },
+  "homepage": "https://github.com/sanusasidharan/covidtracer_v3#readme"
+}
